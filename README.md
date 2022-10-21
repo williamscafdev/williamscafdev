@@ -8,6 +8,7 @@
 - 🌱 I’m currently learning **Flutter, Nestjs, nodejs, vuej. others**
 
 - 👯 I’m looking to collaborate on [Simplex Go](https://github.com/simplexgo)
+- 👯 I’m looking to collaborate on [Joinnus](https://github.com/joinnusteam)
 
 - 💬 Ask me about **flutter, CustomerIO,Amplitude.**
 
