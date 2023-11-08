@@ -3,12 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=williamscafdev&label=Profile%20views&color=0e75b6&style=flat" alt="williamscafdev" /> </p>
 
-- 🔭 I’m currently working on [Trii](trii.co)
+- 🔭 I’m currently working on [Joinnus]([https://www.joinnus.com/])
 
 - 🌱 I’m currently learning **Flutter, Nestjs, nodejs, vuej. others**
+- 🔭 I'm a Flutter Expert.
 
 - 👯 I’m looking to collaborate on [Simplex Go](https://github.com/simplexgo)
-- 👯 I’m looking to collaborate on [Joinnus](https://github.com/joinnusteam)
+- 👯 I’m looking to collaborate on [Trii](trii.co)
 
 - 💬 Ask me about **flutter, CustomerIO,Amplitude.**
 
