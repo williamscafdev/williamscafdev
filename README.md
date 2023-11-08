@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=williamscafdev&label=Profile%20views&color=0e75b6&style=flat" alt="williamscafdev" /> </p>
 
-- 🔭 I’m currently working on [Joinnus]([https://www.joinnus.com/])
+- 🔭 I’m currently working on [Joinnus][https://www.joinnus.com/]
 
 - 🌱 I’m currently learning **Flutter, Nestjs, nodejs, vuej. others**
 - 🔭 I'm a Flutter Expert.
