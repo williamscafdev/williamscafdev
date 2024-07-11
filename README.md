@@ -10,6 +10,8 @@
 
 - 👯 I’m looking to collaborate on [Simplex Go](https://github.com/simplexgo)
 - 👯 I’m looking to collaborate on [Trii](trii.co)
+- 👯 I’m looking to collaborate on [Agros.tech](https://agros.tech/)
+- 👯 I’m looking to collaborate on [FromSolvers](fromsolvers.com)
 
 - 💬 Ask me about **flutter, CustomerIO,Amplitude.**
 
